@@ -18,15 +18,14 @@ The software in this repository is for try-out only. It is delivered as-is and c
 
 For any inquiries please write to [sales@adorsys.com](mailto://sales@adorsys.com).
 
-## What is it
+## Some Background 
 
 With **PSD2** Directive (EU) 2015/2366 the European Union has forced the Banking Market to open the Banking Services to Third Party Service Providers (TPP), given they act on behalf of the  *Payment Service User*s (PSU).
 
-The 'Berlin Group' is a pan-European payments interoperability standards and harmonization initiative.
-Based on the PSD2 and EBA RTS requirements, Berlin Group NextGenPSD2 has worked on a detailed
+The **Berlin Group** is a pan-European payments interoperability standards and harmonization initiative. Based on the PSD2 and EBA RTS requirements, Berlin Group NextGenPSD2 has worked on a detailed
 ['Access to Account  (XS2A) Framework'](https://www.berlin-group.org/psd2-access-to-bank-accounts) with a data model (at conceptual, logical and physical data levels) and associated messaging.
 
-We at [adorsys](https://adorsys.com/) are IT and information architects. We build, secure and operate platforms for our customers in highly regulates industries, in particular finance for more than 15 years now. We are experts for open finance and have been active in this domain from the very beginning.
+We at **[adorsys](https://adorsys.com/)** are IT and information architects. We build, secure and operate platforms for our customers in highly regulates industries, in particular finance for more than 15 years now. We are experts for open finance and have been active in this domain from the very beginning.
 
 
 ### Quick facts about this XS2A Service
